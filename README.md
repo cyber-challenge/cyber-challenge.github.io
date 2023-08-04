@@ -1,4 +1,4 @@
-# cyber-challenge
+# cyber-challenge.github.io
 
 Voordat we beginnen is het aan te raden om deze aandachtspunten door te nemen.
 

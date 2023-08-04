@@ -4,4 +4,4 @@ Bedankt dat je de tijd hebt genomen om deze demo-challenge aan te gaan, veel ple
 
 Klik op de link hieronder om te beginnen met de casus MoneyTrail:
 
-https://cyber-challenge.github.io/moneytrail.html
+[Starten](https://cyber-challenge.github.io/moneytrail)

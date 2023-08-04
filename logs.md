@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Donkere Modus</title>
   <style>
     body {
       background-color: black;
@@ -14,6 +13,8 @@
 
     /* Pas hier eventueel andere stijlen toe, afhankelijk van je voorkeur */
   </style>
+</head>
+<body>
 # Logfile 29 t/m 30 juni en 01-07-2023
 ## 29-06-2023
 
@@ -75,3 +76,7 @@ Tijdstip: 19:20:05
 Gebruiker: management@company.com  
 Activiteit: Kwartaalrapport bekeken  
 Details: Op 01-07-2023 om 19:20:05 heeft het managementteam ingelogd en het kwartaalrapport bekeken om bedrijfsprestaties te analyseren.  
+
+
+</body>
+</html>

@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background-color: black;
-      color: white;
-    }
-
-  </style>
-</head>
-<body>
 # Logfile 29 t/m 30 juni en 01-07-2023
 ## 29-06-2023
 

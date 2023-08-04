@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Donkere Modus</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+    }
+
+    a {
+      color: blue;
+    }
+
+    /* Pas hier eventueel andere stijlen toe, afhankelijk van je voorkeur */
+  </style>
 # Logfile 29 t/m 30 juni en 01-07-2023
 ## 29-06-2023
 

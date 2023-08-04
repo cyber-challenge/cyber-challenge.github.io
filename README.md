@@ -1,8 +1,7 @@
 # cyber-challenge.github.io
 
+Bedankt dat je de tijd hebt genomen om deze demo-challenge aan te gaan, veel plezier!
 
-Welkom op de challenge pagina! Fantastisch dat je ons wilt helpen.
+Klik op de link hieronder om te beginnen met de casus MoneyTrail:
 
-Klik op de knop hieronder om te beginnen met de casus MoneyTrail:
-
-<button name="button" onclick="https://cyber-challenge.github.io/moneytrail.html">Starten</button>
+https://cyber-challenge.github.io/moneytrail.html

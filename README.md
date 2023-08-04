@@ -8,7 +8,6 @@ Voordat we beginnen is het aan te raden om deze aandachtspunten door te nemen.
 
 •  Voer geen echte hacks uit; alles is nep en niemand wordt daadwerkelijk gehackt.
 
-
 •  ⚠️Maak gebruik van de toolsheet!
 
 •  Gebruik je creativiteit en probleemoplossende vaardigheden om obstakels te overwinnen.
@@ -25,8 +24,8 @@ De toolsheet kan je helpen om de juiste technieken te vinden om een uitdaging op
 
 Mocht je er niet uitkomen, dan zijn per onderdeel een aantal hints beschikbaar. Als deze hints je niet verder helpen, kan je altijd nog het antwoord bekijken.
 
-<a target="_blank" href="/toolsheet.pdf">Download toolsheet (PDF)</a>  
-<a target="_blank" href="/hintsheet.html">Bekijk hintsheet (webpagina)</a>
+<a target="_blank" href="/toolsheet.pdf">Open toolsheet (PDF)</a>  
+<a target="_blank" href="/hintsheet.html">Open hintsheet (webpagina)</a>
 
 
 Bedankt dat je de tijd hebt genomen om deze demo-challenge aan te gaan, veel plezier!

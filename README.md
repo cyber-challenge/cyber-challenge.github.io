@@ -25,7 +25,7 @@ De toolsheet kan je helpen om de juiste technieken te vinden om een uitdaging op
 
 Mocht je er niet uitkomen, dan zijn per onderdeel 3 hints beschikbaar. Als deze hints je niet verder helpen, kan je altijd nog het antwoord bekijken.
 
-<a target="_blank" href="/toolsheet.pdf">Download toolsheet (PDF)</a>
+<a target="_blank" href="/toolsheet.pdf">Download toolsheet (PDF)</a>  
 <a target="_blank" href="/hintsheet.html">Bekijk hintsheet (webpagina)</a>
 
 

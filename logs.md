@@ -7,11 +7,6 @@
       color: white;
     }
 
-    a {
-      color: blue;
-    }
-
-    /* Pas hier eventueel andere stijlen toe, afhankelijk van je voorkeur */
   </style>
 </head>
 <body>

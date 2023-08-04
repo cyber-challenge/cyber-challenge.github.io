@@ -61,5 +61,4 @@ Activiteit: Kwartaalrapport bekeken
 Details: Op 01-07-2023 om 19:20:05 heeft het managementteam ingelogd en het kwartaalrapport bekeken om bedrijfsprestaties te analyseren.  
 
 
-</body>
-</html>
+

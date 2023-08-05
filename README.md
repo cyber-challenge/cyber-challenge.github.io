@@ -2,6 +2,7 @@
 
 Voordat we beginnen is het aan te raden om deze aandachtspunten door te nemen.
 
+
 ## Aandachtspunten
 
 •  Vermijd het inspecteren van de broncode van websites.

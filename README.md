@@ -1,5 +1,6 @@
 # cyber-challenge.github.io
 
+Welkom!
 Voordat we beginnen is het aan te raden om deze aandachtspunten door te nemen.
 
 

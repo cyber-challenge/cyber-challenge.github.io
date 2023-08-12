@@ -4,6 +4,9 @@ Welkom!
 Voordat we beginnen is het aan te raden om deze aandachtspunten door te nemen.
 
 
+** Deze challenges en bestanden mogen niet worden gekopieerd, gereproduceerd, of gebruikt voor commerciële doeleinden zonder schriftelijke toestemming. **
+
+
 ## Aandachtspunten
 
 •  Vermijd het inspecteren van de broncode van websites.
@@ -29,7 +32,5 @@ Mocht je er niet uitkomen, dan zijn per onderdeel een aantal hints beschikbaar. 
 <a target="_blank" href="/toolsheet.pdf">Open toolsheet (PDF)</a>  
 <a target="_blank" href="/hintsheet.html">Open hintsheet (webpagina)</a>
 
-
-Bedankt dat je de tijd hebt genomen om deze demo-challenge aan te gaan, veel plezier!
 
 [Starten](https://cyber-challenge.github.io/moneytrail)

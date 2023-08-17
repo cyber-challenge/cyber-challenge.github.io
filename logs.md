@@ -1,5 +1,5 @@
 # Logfile 29 t/m 30 juni en 01-07-2023
-## 29-06-2023
+## 29-07-2023
 
 Tijdstip: 08:00:00  
 Gebruiker: admin@company.com  
@@ -26,7 +26,7 @@ Gebruiker: john.smith@example.com
 Activiteit: Bestand gedownload  
 Details: Op 29-06-2023 om 16:40:10 heeft de gebruiker john.smith@example.com ingelogd en een belangrijk bedrijfsdocument gedownload met de naam "Company_Strategy.docx".
 
-## 30-06-2023
+## 30-07-2023
 
 Tijdstip: 09:00:00  
 Gebruiker: marketing@company.com  
@@ -43,7 +43,7 @@ Gebruiker: finance@company.com
 Activiteit: Factuur betaald  
 Details: Op 30-06-2023 om 17:50:15 heeft de financiële afdeling ingelogd en een openstaande factuur betaald aan een leverancier.  
 
-## 01-07-2023
+## 01-08-2023
 
 Tijdstip: 11:10:00  
 Gebruiker: it@company.com  

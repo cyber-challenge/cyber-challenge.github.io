@@ -25,7 +25,7 @@
 
 </tw-passagedata><tw-passagedata pid="2" name="tag" tags="" position="700,600" size="100,100">###Opdracht 2 - user18279123@gmail.com gehackt
 
-Het account van de IT admin is gehackt. 
+Het test account van de IT admin is gehackt. 
 Hij heeft net voordat hij is buitengesloten van zijn eigen account een verontrustende email ontvangen.
 
 Check deze mail en vertel wat je kunt vinden, de tijd dringt.
@@ -43,43 +43,43 @@ Veel succes agent.
 
 [[Volgende-&gt;email-employee]]</tw-passagedata><tw-passagedata pid="4" name="email-employee" tags="" position="300,600" size="100,100">##Opdracht 1 - Logs
 &lt;br&gt;&lt;br&gt;
-&lt;h1 style=&quot;color: red; font-family:arial;font-size: 36px; text-align: center; text-shadow: 0 0 10px red; letter-spacing: 3px;&quot;&gt;(text-style: &quot;fade-in-out&quot;) [Dringende veiligheidsmelding ]&lt;/h1&gt;
+&lt;h1 style=&quot;color: red; font-family:arial;font-size: 36px; text-align: center; text-shadow: 0 0 10px red; letter-spacing: 3px;&quot;&gt;(text-style: &quot;fade-in-out&quot;) [Dringende veiligheidsmeldingen ]&lt;/h1&gt;
 &lt;br&gt;&lt;br&gt;
 De systeemlogs geven veel ongebruikelijk verkeer aan, er moet snel achterhaalt worden wanneer er succesvol is ingebroken en welk emailadres daarbij gehackt is, zodat meerdere hacks voorkomen kunnen worden.
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
 &lt;div style=&quot;background-color:##201b1b;border-style:solid;border-radius:10px;padding:20px;border-color:red;&quot;&gt;
 &lt;code&gt;
-29-06-2023
+29-07-2023
 
-14:05:23 - SECURITY ALERT: Unusual Network Traffic Detected
-14:12:45 - SECURITY ALERT: Multiple Failed Login Attempts
-14:21:09 - SECURITY ALERT: Firewall Breach Attempt Blocked
-14:30:17 - SECURITY ALERT: Unauthorized Port Scanning Detected
-14:40:32 - SECURITY ALERT: Brute Force Attack Detected
-14:48:56 - SECURITY ALERT: Suspicious Outgoing Data Transfer
-15:02:13 - SECURITY ALERT: Intrusion Detection System Triggered
-15:10:45 - SECURITY ALERT: Successful Unauthorized Access (Critical)
+14:05:23 - VEILIGHEIDSALARM: Ongebruikelijk netwerkverkeer gedetecteerd
+14:12:45 - VEILIGHEIDSALARM: Meerdere mislukte inlogpogingen
+14:21:09 - VEILIGHEIDSALARM: Poging tot firewallinbraak geblokkeerd
+14:30:17 - VEILIGHEIDSALARM: Ongeautoriseerde poortscans gedetecteerd
+14:40:32 - VEILIGHEIDSALARM: Brute force-aanval gedetecteerd
+14:48:56 - VEILIGHEIDSALARM: Verdachte uitgaande gegevensoverdracht
+15:02:13 - VEILIGHEIDSALARM: Intrusiedetectiesysteem geactiveerd
+15:10:45 - VEILIGHEIDSALARM: Succesvolle ongeautoriseerde toegang (Kritiek)
 
-30-06-2023
+30-07-2023
 
-09:22:32 - SECURITY ALERT: Remote Code Execution Attempt
-09:35:09 - SECURITY ALERT: Data Transfer from Server
-09:45:55 - SECURITY ALERT: SQL Injection Attack Blocked
-10:02:19 - SECURITY ALERT: Unauthorized Access to Configuration Files
-10:15:37 - SECURITY ALERT: Suspicious File Upload Attempt
-10:29:45 - SECURITY ALERT: Outbound Traffic Detected
-10:37:59 - SECURITY ALERT: Unsuccessful Access Attempt
+09:22:32 - VEILIGHEIDSALARM: Poging tot externe code-uitvoering
+09:35:09 - VEILIGHEIDSALARM: Gegevensoverdracht van server
+09:45:55 - VEILIGHEIDSALARM: SQL-injectieaanval geblokkeerd
+10:02:19 - VEILIGHEIDSALARM: Ongeautoriseerde toegang tot configuratiebestanden
+10:15:37 - VEILIGHEIDSALARM: Verdachte poging tot bestandsupload
+10:29:45 - VEILIGHEIDSALARM: Uitgaand verkeer gedetecteerd
+10:37:59 - VEILIGHEIDSALARM: Mislukte toegangspoging
 
-01-07-2023
+01-08-2023
 
-13:08:50 - SECURITY ALERT: Unauthorized Login Attempt
-13:20:03 - SECURITY ALERT: Failed SSH Authentication
-13:30:18 - SECURITY ALERT: Brute Force Attack Detected
-13:42:27 - SECURITY ALERT: Outbound Traffic
-13:55:01 - SECURITY ALERT: Exploit Kit Download Attempt
-14:08:39 - SECURITY ALERT: Privilege Escalation Attempt
-14:35:09 - SECURITY ALERT: Suspicious Activity on File Server
-14:48:20 - SECURITY ALERT: Unsuccessful Payload Execution Attempt
+13:08:50 - VEILIGHEIDSALARM: Poging tot ongeautoriseerde aanmelding
+13:20:03 - VEILIGHEIDSALARM: Mislukte SSH-authenticatie
+13:30:18 - VEILIGHEIDSALARM: Brute force-aanval gedetecteerd
+13:42:27 - VEILIGHEIDSALARM: Uitgaand verkeer
+13:55:01 - VEILIGHEIDSALARM: Poging tot downloaden van exploitkit
+14:08:39 - VEILIGHEIDSALARM: Poging tot rechtenescalatie
+14:35:09 - VEILIGHEIDSALARM: Verdachte activiteit op bestandsserver
+14:48:20 - VEILIGHEIDSALARM: Mislukte poging tot uitvoering van payload
 &lt;/code&gt;
 &lt;/div&gt;
 &lt;a href=&quot;https://cyber-challenge.github.io/logs&quot; target=&quot;_blank&quot;&gt;Bekijk details logfiles&lt;/a&gt;&lt;br&gt;
@@ -210,8 +210,8 @@ Misschien komt je toolsheet hier van pas.
 ]
 
 &lt;!-- Based on the flag values, proceed to the corresponding passage --&gt;
-(if: $flag2 is &quot;https://groups.google.com/u/2/g/securenet85638&quot;)[
-  [[✔️ Flags goedgekeurd, ga door naar de volgende -&gt;CNC-Server]]
+(if: $flag2 is &quot;https://groups.google.com/u/2/g/securenet85638&quot; or $flag2 is &quot;https://href.li/?https://groups.google.com/u/2/g/securenet85638&quot;)[
+  [[✔️ Flag goedgekeurd, ga door naar de volgende -&gt;CNC-Server]]
 ](else:)[
   [[❌ Helaas, probeer opnieuw...-&gt;Chatgroup-google]]
 ]
@@ -220,10 +220,10 @@ Misschien komt je toolsheet hier van pas.
 
 Dit is goed werk agent. Heb je deze server al bezocht?
 
-Misschien moeten we ons eerst focussen op de informatie van de Imgur gebruiker.
+Misschien moeten we ons eerst focussen op de informatie van de Tumblr gebruiker.
 
 
-[[Welke link heb je op het profiel kunnen vinden?-&gt;Chatgroup]]</tw-passagedata><tw-passagedata pid="16" name="video-end" tags="" position="1100,925" size="100,100">##Opdracht 8 - Digitale forensics
+[[Welke secret link heb je op het profiel kunnen vinden?-&gt;Chatgroup]]</tw-passagedata><tw-passagedata pid="16" name="video-end" tags="" position="1100,925" size="100,100">##Opdracht 8 - Digitale forensics
 
 Onderzoek de server grondig agent. We komen dichterbij...
 Die video&#39;s lijken erg interessant.

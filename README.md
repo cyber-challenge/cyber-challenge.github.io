@@ -13,11 +13,11 @@ Voordat we beginnen is het aan te raden om deze aandachtspunten door te nemen.
 
 •  Voer geen echte hacks uit; alles is nep en niemand wordt daadwerkelijk gehackt.
 
-•  ⚠️Maak gebruik van de toolsheet!
+•  ⚠️Maak gebruik van de toolsheet.
 
 •  Gebruik je creativiteit en probleemoplossende vaardigheden om obstakels te overwinnen.
 
-•  ⚠️Bij het invoeren van de flag denk eraan eventuele spaties te verwijderen!
+•  ⚠️Bij het invoeren van de flag denk eraan eventuele spaties aan het begin/eind te verwijderen.
 
 • Je bent nergens een (social media) account voor nodig.
 

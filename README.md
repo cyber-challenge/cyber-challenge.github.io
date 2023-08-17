@@ -4,7 +4,7 @@ Welkom!
 Voordat we beginnen is het aan te raden om deze aandachtspunten door te nemen.
 
 
-** Deze challenges en bestanden mogen niet worden gekopieerd, gereproduceerd, of gebruikt voor commerciële doeleinden zonder schriftelijke toestemming. **
+** Deze challenges en bestanden mogen niet worden gekopieerd, gereproduceerd, of gebruikt worden (voor commerciële doeleinden) zonder schriftelijke toestemming. **
 
 
 ## Aandachtspunten

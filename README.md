@@ -4,9 +4,6 @@ Welkom!
 Voordat we beginnen is het aan te raden om deze aandachtspunten door te nemen.
 
 
-** Deze challenges en bestanden mogen niet worden gekopieerd, gereproduceerd, of gebruikt worden (voor commerciële doeleinden) zonder schriftelijke toestemming. **
-
-
 ## Aandachtspunten
 • De challenge is gemaakt en getest voor een Windows apparaat met Chrome browser. De challenge werkt hoogstwaarschijnlijk ook op andere besturingssystemen, maar de stappen in de hints kunnen iets verschillen.
 
@@ -33,5 +30,8 @@ Mocht je er niet uitkomen, dan zijn per onderdeel een aantal hints beschikbaar. 
 <a target="_blank" href="/toolsheet.pdf">Open toolsheet (PDF)</a>  
 <a target="_blank" href="/hintsheet.html">Open hintsheet (webpagina)</a>
 
+
+
+** Please do not copy, reproduce, or use the files/challenges (for commercial purposes) without permission. **  
 
 [Starten](https://cyber-challenge.github.io/moneytrail)

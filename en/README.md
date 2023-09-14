@@ -2,7 +2,6 @@
 Welcome!
 Before we begin, it is advisable to go through these points of attention.
 
-** These challenges and files may not be copied, reproduced, or used (for commercial purposes) without written permission. **
 
 ## Points of Attention
 • The challenge is created and tested for a Windows device with a Chrome browser. The challenge is likely to work on other operating systems as well, but the steps in the hints may vary slightly.
@@ -28,5 +27,7 @@ If you can't figure it out, there are a few hints available for each section. If
 <a target="_blank" href="/en/toolsheet.pdf">Open toolsheet (PDF)</a>
 <a target="_blank" href="/en/hintsheet.html">Open hintsheet (webpage)</a>
 
+
+** Please do not copy, reproduce, or use the files/challenges (for commercial purposes) without permission. **  
 [Start](https://cyber-challenge.github.io/en/moneytrail)
 

@@ -224,7 +224,7 @@ Perhaps your toolsheet could come in handy here.
 
 
 
-[[What is the password?-&gt;MFA-flag]]
+[[What is the MFA code?-&gt;MFA-flag]]
 
 
 [[Previous assignment-&gt;Recovery]]</tw-passagedata><tw-passagedata pid="13" name="MFA-flag" tags="" position="900,925" size="100,100">
@@ -236,12 +236,12 @@ Perhaps your toolsheet could come in handy here.
   (if: $continue7 is &quot;yes&quot;)[(go-to: &quot;video-end&quot;)]
   
   (else:)[
-  (set: $flag to (prompt: &quot;What is the password?&quot;, &quot;&quot;))
+  (set: $flag to (prompt: &quot;What is the MFA code?&quot;, &quot;&quot;))
 ]
 ]
 
 &lt;!-- Based on the flag value, proceed to the corresponding passage --&gt;
-(if: $flag is &quot;Letmein!&quot; or $continue7 is &quot;yes&quot;)[
+(if: $flag is &quot;7490&quot; or $continue7 is &quot;yes&quot;)[
  (set: $continue7 to &quot;yes&quot;)
   [[✔️ Flag approved, continue-&gt;video-end]]
 ](else:)[

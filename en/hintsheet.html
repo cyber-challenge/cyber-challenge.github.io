@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Challenge Hints</title>
+    <style>
+           div {text-align:center;}
+            body {
+            font-family: 'Courier New', monospace;
+            background-color: #111111;
+            color: #00FF00;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1, h2 {
+            color: #00FF00;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .hint {
+            cursor: pointer;
+            color: #66CCFF;
+            margin-bottom: 10px;
+            text-align: center;
+            transition: color 0.3s;
+        }
+
+        .hint:hover {
+            color: #00FFFF;
+        }
+
+        .hint-content {
+            display: none;
+            color: #FFFFFF;
+           
+            font-style: italic;
+            text-align: center;
+        }
+        
+    </style>
+</head>
+<body>
+    <h1>Hints for Each Task</h1>
+
+    <h2>Task 1</h2>
+    <div class="hint" onclick="revealHint('hint1')">Login Date</div>
+    <div id="hint1" style="display:none">Look at the specific date when a successful login occurred.</div>
+
+    <div class="hint" onclick="revealHint('hint2')">Gmail Account</div>
+    <div id="hint2" style="display:none">Check the details in the log files to find the Gmail account.</div>
+
+    <div class="hint" onclick="revealHint('hint3')">Date of Gmail Account Login</div>
+    <div id="hint3" style="display:none">The answer can be found in the log files for the date of 29-07-2023.</div>
+    <div class="hint" onclick="revealHint('hint41')">Answer</div>
+    <div id="hint41" style="display:none">user18279123@gmail.com</div>
+
+    <h2>Task 2</h2>
+    <div class="hint" onclick="revealHint('hint4')">Find the Image</div>
+    <div id="hint4" style="display:none">Open the link to download the image; no need to download it.</div>
+
+    <div class="hint" onclick="revealHint('hint5')">Find Metadata</div>
+    <div id="hint5" style="display:none">Click on the three dots, then click on 'Details.'</div>
+
+    <div class="hint" onclick="revealHint('hint6')">Metadata Information</div>
+    <div id="hint6" style="display:none">Scroll down to --metadata--.</div>
+
+    <div class="hint" onclick="revealHint('hint61')">Answer</div>
+    <div id="hint61" style="display:none">Tag: 36518347 URL: https://tumblr.com Filter: Most Recent FLAG: 36518347</div>
+    <h2>Task 3</h2>
+    <div class="hint" onclick="revealHint('hint7')">Find Screenshot</div>
+    <div id="hint7" style="display:none">Search on https://tumblr.com with the given tag. And filter by most recent.</div>
+
+    <div class="hint" onclick="revealHint('hint8')">Server Name Information</div>
+    <div id="hint8" style="display:none">Examine the text in the image closely: "main server @ ..."</div>
+
+    <div class="hint" onclick="revealHint('hint9')">Answer</div>
+    <div id="hint9" style="display:none">stealthhost.github.io</div>
+
+    <h2>Task 4</h2>
+    <div class="hint" onclick="revealHint('hint91')">Page</div>
+    <div id="hint91" style="display:none">Analyze the NeverMind2023 website to find a chat button.</div>
+     <div class="hint" onclick="revealHint('hint92')">Find Link</div>
+    <div id="hint92" style="display:none">On the chat page, you can find the answer by using Ctrl+A.</div>
+    <div class="hint" onclick="revealHint('hint93')">Answer</div>
+    <div id="hint93" style="display:none">https://groups.google.com/u/2/g/securenet85638</div>
+
+    <h2>Task 5</h2>
+    <div class="hint" onclick="revealHint('hint10')">Chats</div>
+    <div id="hint10" style="display:none">Analyze the two chats to discover how to retrieve the PDF password.</div>
+
+    <div class="hint" onclick="revealHint('hint11')">"I don't remember it" Text</div>
+    <div id="hint11" style="display:none">Send an email with the exact text "I don't remember it" to get more information. You can find the email address from a previous challenge.</div>
+
+    <div class="hint" onclick="revealHint('hint12')">Email Address</div>
+    <div id="hint12" style="display:none">Send an email to c9139804@gmail.com with the text: I don't remember it</div>
+
+    <div class="hint" onclick="revealHint('hint121')">Answer</div>
+    <div id="hint121" style="display:none">Send an email to c9139804@gmail.com with the text: I don't remember it to receive the flag: 8djadf1889</div>
+
+    <h2>Task 6</h2>
+    <div class="hint" onclick="revealHint('hint13')">Data Needed for Recovery</div>
+    <div id="hint13" style="display:none">Discover which data (username and installation date) you need for the recovery shell. The shell can be found at stealthhost.github.io/98GiiDOi2991.html</div>
+
+    <div class="hint" onclick="revealHint('hint14')">Correct Tool</div>
+    <div id="hint14" style="display:none">Use a specific tool like Wayback Machine to find the installation date.</div>
+
+    <div class="hint" onclick="revealHint('hint15')">Tool Usage</div>
+    <div id="hint15" style="display:none">Enter the path stealthhost.github.io/about.txt into Wayback Machine to help you find the installation date. <br> Then click on "Click here to search for all archived pages under."</div>
+    <div class="hint" onclick="revealHint('hint1512')">Correct Recovery Data</div>
+    <div id="hint1512" style="display:none">Username: Cyberknight Install date: 16-02-2023 Now you can retrieve the password.</div>
+
+    <div class="hint" onclick="revealHint('hint151')">Answer</div>
+    <div id="hint151" style="display:none">thisPW-isSup3r!!!</div>
+
+ <h2>Task 7</h2>
+    <div class="hint" onclick="revealHint('hint131')">Message Puzzle</div>
+    <div id="hint131" style="display:none">The message mentions brainfuck.</div>
+
+<div class="hint" onclick="revealHint('hint132')">Correct Tool</div>
+    <div id="hint132" style="display:none">Geocaching Toolbox can translate brainfuck to text.</div>
+
+<div class="hint" onclick="revealHint('hint133')">Answer</div>
+    <div id="hint133" style="display:none">Letmein!</div>
+
+
+<h2>Task 8</h2>
+    <div class="hint" onclick="revealHint('hint1311')">How to Find the Flag?</div>
+    <div id="hint1311" style="display:none">The flag has something to do with contrast.. (the toolsheet helps)</div>
+
+<div class="hint" onclick="revealHint('hint1321')">Correct Steps</div>
+    <div id="hint1321" style="display:none">Take a screenshot of the videos and save this screenshot. Then, edit the photo by right-clicking on the screenshot and selecting "Edit with Photos." Play around with exposure, contrast, etc...</div>
+
+<div class="hint" onclick="revealHint('hint1331')">Answer</div>
+    <div id="hint1331" style="display:none">https://tinyurl.com/if2738</div>
+    <script>
+        function revealHint(hintId) {
+            var hint = document.getElementById(hintId);
+            hint.style.display = "block";
+        }
+    </script>
+</body>
+</html>
